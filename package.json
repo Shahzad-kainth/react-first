@@ -1,0 +1,18 @@
+{
+  "name": "4dayreact",
+  "version": "1.0.0",
+  "description": "jsx elements",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "parcel": "^2.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "author": "Shahzad kainth",
+  "license": "ISC",
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
